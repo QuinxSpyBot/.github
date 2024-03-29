@@ -1,12 +1,11 @@
-## Hi there 👋
+<div align="center">
+  
+ **𝐖ᴇʟᴄᴏᴍᴇ 𝐓ᴏ 𝐐ᴜɪɴx 𝐒ᴘʏ** </div>
 
-<!--
+<img src="https://github.com/QuinxSpyBot/.github/blob/main/rsc/quinxspybot.png" width="100" align="left"/>
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+*Serving telegram with our awesome bots*
+
+[![Channel](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MaximXBots)ㅤ[![Bots](https://img.shields.io/badge/Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/QuinxSpyBot)
+<br><br><br><br>
